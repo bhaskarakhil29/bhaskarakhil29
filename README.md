@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bhaskarakhil29
-- 👀 I’m interested in Scalable Systems and Complex micro front ends 
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on React and related work
+- 👀 I’m interested in learning about Scalable Systems and backend architectures. 
 - 📫 How to reach me : bhaskarakhil29@gmail.com
 
 <!---
